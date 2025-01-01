@@ -18,3 +18,7 @@ DIY:
 3. recommend 30% infill with rectilinear infill pattern
 
 Online: insert a recommended print farm with tips like above
+
+### installation
+
+if using magnets, we recommend super glue with an extended curing time. your brand's bottle may require just 30-45 seconds, but in testing our magnets detached from the mount unless given at least 60 minutes to dry.
