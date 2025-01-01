@@ -1,6 +1,6 @@
 # TRMNL Mounts
 
-this repo contains a growing collection of 3D printable mounting designs, useful for attaching TRMNL to magnetic surfaces like refrigerators or non stationary locations such as a moving door.
+this repo contains a growing collection of 3D printable mounting designs, useful for attaching TRMNL to magnetic surfaces like refrigerators or non stationary locations like a moving door.
 
 see README inside each `/designs` directory for feature specs and printing instructions.
 
