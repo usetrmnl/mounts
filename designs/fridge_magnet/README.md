@@ -15,6 +15,6 @@ DIY:
 
 1. import STL file to any slicer tool (STEP file also provided for edits)
 2. disable supports / not required
-3. ~any infill should be fine
+3. recommend 30% infill with rectilinear infill pattern
 
 Online: insert a recommended print farm with tips like above
