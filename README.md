@@ -19,6 +19,13 @@ see README inside each `/designs` directory for feature specs and printing instr
 designed by @jonschwenn, get the files:
 https://www.printables.com/model/1194757-trmnl-brkt
 
+### TRMNL Stand
+
+![trmnl-stand-rafbanaan](https://github.com/user-attachments/assets/cf788dc2-d9f1-4ea9-ad45-caf90f97bcdd)
+
+designed by @rafbanaan, get the files:
+https://makerworld.com/en/models/1094514
+
 ### [WIP] The H
 
 <kbd>![the-h-wip-preview](https://github.com/usetrmnl/mounts/blob/main/designs/the_h/preview/the_h.jpeg)</kbd>
