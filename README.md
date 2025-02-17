@@ -12,6 +12,13 @@ see README inside each `/designs` directory for feature specs and printing instr
 
 <kbd>![corner-bracket-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/corner_bracket/preview/front%20-%20corner_bracket_3.1.png)</kbd>
 
+### BRKT
+
+![trmnl-brkt-jonschwenn](https://github.com/user-attachments/assets/f2da76cc-3f02-43fa-8e09-d0f6700798a5)
+
+designed by @jonschwenn, get the files:
+https://www.printables.com/model/1194757-trmnl-brkt
+
 ### [WIP] The H
 
 <kbd>![the-h-wip-preview](https://github.com/usetrmnl/mounts/blob/main/designs/the_h/preview/the_h.jpeg)</kbd>
