@@ -26,6 +26,13 @@ https://www.printables.com/model/1194757-trmnl-brkt
 designed by @rafbanaan, get the files:
 https://makerworld.com/en/models/1094514
 
+### TRMNL Command Strip
+
+![trmnl-command-strip-nail-hanger](https://github.com/user-attachments/assets/121c192b-0546-4b00-b399-dcc7c2c42017)
+
+designed by @jgcaruso, get the files:
+https://makerworld.com/en/models/1189641-trmnl-command-strip-nail
+
 ### [WIP] The H
 
 <kbd>![the-h-wip-preview](https://github.com/usetrmnl/mounts/blob/main/designs/the_h/preview/the_h.jpeg)</kbd>
