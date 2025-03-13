@@ -36,3 +36,9 @@ https://makerworld.com/en/models/1189641-trmnl-command-strip-nail
 ### [WIP] The H
 
 <kbd>![the-h-wip-preview](https://github.com/usetrmnl/mounts/blob/main/designs/the_h/preview/the_h.jpeg)</kbd>
+
+### Skadis mount
+
+![trmnl-skadis](https://makerworld.bblmw.com/makerworld/model/US3a1af63a9befc2/design/2025-02-27_1cf7c90d0e8c5.jpg?x-oss-process=image/resize,w_1920/format,webp)
+
+designed by [@coops on MakerWorld](https://makerworld.com/en/models/1156997-trmnl-skadis-mount)
