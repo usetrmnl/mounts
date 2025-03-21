@@ -2,7 +2,8 @@
 
 this repo contains a growing collection of 3D printable mounting designs, useful for attaching TRMNL to magnetic surfaces like refrigerators or non stationary locations like a moving door.
 
-see README inside each `/designs` directory for feature specs and printing instructions.
+see README inside each `/designs` directory for feature specs and printing instructions. if you don't have access to a 3D printer, we hear good things about Craft Cloud:
+[https://craftcloud3d.com/upload](https://craftcloud3d.com/upload)
 
 ### fridge magnet
 
