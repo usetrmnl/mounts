@@ -15,7 +15,8 @@ DIY:
 2. disable supports / not required
 3. ~any infill should be fine
 
-Online: insert a recommended print farm with tips like above
+Online: we hear good things about Craft Cloud:
+[https://craftcloud3d.com/upload](https://craftcloud3d.com/upload)
 
 ### installation
 
