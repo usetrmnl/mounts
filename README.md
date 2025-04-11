@@ -15,9 +15,9 @@ see README inside each `/designs` directory for feature specs and printing instr
 
 ### Minimal Stand
 
-![trmnl-stand-jack-rob](https://github.com/user-attachments/assets/8961a014-4682-4642-9116-865eb9ef53d2)
+![trmnl-stand-ctrl-alt](https://github.com/user-attachments/assets/8961a014-4682-4642-9116-865eb9ef53d2)
 
-designed by @JackRob, get the files:
+designed by @CtrlAlt, get the files:
 https://makerworld.com/en/models/1267576-trmnl-stand-for-e-ink-dashboard
 
 ### BRKT
