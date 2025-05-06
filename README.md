@@ -9,6 +9,13 @@ see README inside each `/designs` directory for feature specs and printing instr
 
 <kbd>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kbd>
 
+### magnetic mounting plate
+
+<kbd>![trmnl-magnetic-mounting-plate](https://github.com/user-attachments/assets/dd6d9ed2-b7f8-42ac-bbcd-28ae6d58514a)</kbd>
+
+designed by @deisterhold, get the files:
+https://makerworld.com/en/models/1388620-trmnl-magnetic-mounting-plate#profileId-1438495
+
 ### corner bracket
 
 <kbd>![corner-bracket-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/corner_bracket/preview/front%20-%20corner_bracket_3.1.png)</kbd>
