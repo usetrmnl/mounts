@@ -9,6 +9,14 @@ see README inside each `/designs` directory for feature specs and printing instr
 
 <kbd>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kbd>
 
+### sturdy fridge magnet
+
+<kbd>![trmnl-beefy-fridge-magnet](https://github.com/user-attachments/assets/94493388-19e6-4f62-ac63-d2783833e840)</kbd>
+
+designed by @erikbuild, get the files:
+https://www.printables.com/model/1311911-trmnl-sturdy-fridge-magnet-mount
+
+
 ### magnetic mounting plate
 
 <kbd>![trmnl-magnetic-mounting-plate](https://github.com/user-attachments/assets/dd6d9ed2-b7f8-42ac-bbcd-28ae6d58514a)</kbd>
