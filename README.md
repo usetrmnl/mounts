@@ -17,8 +17,7 @@ see README inside each `/designs` directory for feature specs and printing instr
 
 <kbd>![trmnl-beefy-fridge-magnet](https://github.com/user-attachments/assets/94493388-19e6-4f62-ac63-d2783833e840)</kbd>
 
-designed by @erikbuild, get the files:
-https://www.printables.com/model/1311911-trmnl-sturdy-fridge-magnet-mount
+designed by [@erikbuild](https://www.printables.com/model/1311911-trmnl-sturdy-fridge-magnet-mount)
 
 ---
 
@@ -26,8 +25,7 @@ https://www.printables.com/model/1311911-trmnl-sturdy-fridge-magnet-mount
 
 ![trmnl-magnetic-mounting-plate](https://github.com/user-attachments/assets/dd6d9ed2-b7f8-42ac-bbcd-28ae6d58514a)
 
-designed by @deisterhold, get the files:
-https://makerworld.com/en/models/1388620-trmnl-magnetic-mounting-plate#profileId-1438495
+designed by [@deisterhold](https://makerworld.com/en/models/1388620-trmnl-magnetic-mounting-plate#profileId-1438495)
 
 ---
 
@@ -41,8 +39,7 @@ https://makerworld.com/en/models/1388620-trmnl-magnetic-mounting-plate#profileId
 
 ![trmnl-stand-ctrl-alt](https://github.com/user-attachments/assets/8961a014-4682-4642-9116-865eb9ef53d2)
 
-designed by @CtrlAlt, get the files:
-https://makerworld.com/en/models/1267576-trmnl-stand-for-e-ink-dashboard
+designed by [@CtrlAlt](https://makerworld.com/en/models/1267576-trmnl-stand-for-e-ink-dashboard)
 
 ---
 
@@ -50,8 +47,7 @@ https://makerworld.com/en/models/1267576-trmnl-stand-for-e-ink-dashboard
 
 ![trmnl-brkt-jonschwenn](https://github.com/user-attachments/assets/f2da76cc-3f02-43fa-8e09-d0f6700798a5)
 
-designed by @jonschwenn, get the files:
-https://www.printables.com/model/1194757-trmnl-brkt
+designed by [@jonschwenn](https://www.printables.com/model/1194757-trmnl-brkt)
 
 ---
 
@@ -59,8 +55,7 @@ https://www.printables.com/model/1194757-trmnl-brkt
 
 ![trmnl-stand-rafbanaan](https://github.com/user-attachments/assets/cf788dc2-d9f1-4ea9-ad45-caf90f97bcdd)
 
-designed by @rafbanaan, get the files:
-https://makerworld.com/en/models/1094514
+designed by [@rafbanaan](https://makerworld.com/en/models/1094514)
 
 ---
 
@@ -68,8 +63,7 @@ https://makerworld.com/en/models/1094514
 
 ![trmnl-command-strip-nail-hanger](https://github.com/user-attachments/assets/121c192b-0546-4b00-b399-dcc7c2c42017)
 
-designed by @jgcaruso, get the files:
-https://makerworld.com/en/models/1189641-trmnl-command-strip-nail
+designed by [@jgcaruso](https://makerworld.com/en/models/1189641-trmnl-command-strip-nail)
 
 ---
 
@@ -92,3 +86,11 @@ designed by [@coops on MakerWorld](https://makerworld.com/en/models/1156997-trmn
 ![trmnl-skadis-2](https://makerworld.bblmw.com/makerworld/model/US9294ab6415dfde/design/2025-05-30_9717154bdea87.jpg?x-oss-process=image/resize,w_1920/format,webp)
 
 designed by [@trakais on MakerWorld](https://makerworld.com/en/models/1469457-tmrnl-mini-hook-for-ikea-skadis-pegboard#profileId-1533577)
+
+---
+
+### Faceplate Cover
+
+![TRMNL-faceplate-cover](https://github.com/user-attachments/assets/98dc6752-ed4e-4154-b2af-a3f93717fdb0)
+
+designed by [@Apolluna](https://www.printables.com/model/1313342-trmnl-faceplate-cover)
