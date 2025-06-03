@@ -102,3 +102,11 @@ designed by [@Apolluna](https://www.printables.com/model/1313342-trmnl-faceplate
 ![TRMNL server rack mount](https://github.com/user-attachments/assets/6decde3c-44fe-4ed6-8a67-bf33a5cfde78)
 
 designed by [@erikbuild](https://www.printables.com/model/1316341-trmnl-minimalist-mount-for-19-rack-blank-plate)
+
+---
+
+### Wall Mount with button access and magnet+adhesive support
+
+![TRMNL button friendly wall mount](https://github.com/user-attachments/assets/7d72d339-83ab-4034-bfd4-02b01ab2a484)
+
+designed by [@curby](https://www.printables.com/model/1316584-trmnl-button-mount)
