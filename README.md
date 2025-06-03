@@ -94,3 +94,11 @@ designed by [@trakais on MakerWorld](https://makerworld.com/en/models/1469457-tm
 ![TRMNL-faceplate-cover](https://github.com/user-attachments/assets/98dc6752-ed4e-4154-b2af-a3f93717fdb0)
 
 designed by [@Apolluna](https://www.printables.com/model/1313342-trmnl-faceplate-cover)
+
+---
+
+### Minimalist Mount for 19" Rack Blank Plate
+
+![TRMNL server rack mount](https://github.com/user-attachments/assets/6decde3c-44fe-4ed6-8a67-bf33a5cfde78)
+
+designed by [@erikbuild](https://www.printables.com/model/1316341-trmnl-minimalist-mount-for-19-rack-blank-plate)
