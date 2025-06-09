@@ -111,3 +111,13 @@ designed by [@erikbuild](https://www.printables.com/model/1316341-trmnl-minimali
 ![TRMNL button friendly wall mount](https://github.com/user-attachments/assets/7d72d339-83ab-4034-bfd4-02b01ab2a484)
 
 designed by [@curby](https://www.printables.com/model/1316584-trmnl-button-mount)
+
+---
+
+### Magnetic backplate
+
+![TRMNL-magnetic-backplate](https://github.com/user-attachments/assets/9a81c622-644d-46e4-ac95-5773488f5c71)
+
+designed by [@jareware_2647066](https://www.printables.com/model/1316234-trmnl-magnetic-backplate)
+
+
