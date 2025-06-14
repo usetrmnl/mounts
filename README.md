@@ -120,4 +120,12 @@ designed by [@curby](https://www.printables.com/model/1316584-trmnl-button-mount
 
 designed by [@jareware_2647066](https://www.printables.com/model/1316234-trmnl-magnetic-backplate)
 
+---
+
+### Yet Another Magnetic TRMNL Mount
+
+![Magnetic TRMNL Mount](https://github.com/user-attachments/assets/259df273-40fb-4b91-828c-9942409c2655)
+
+designed by [@sethangell](https://makerworld.com/en/models/1513288-magnetic-trmnl-mount#profileId-1584851)
+
 
