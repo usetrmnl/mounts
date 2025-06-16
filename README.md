@@ -8,9 +8,17 @@ some options below have their own `/designs` folder with feature specs and print
 
 ---
 
+![Mac 128k Display](https://github.com/user-attachments/assets/8a41d642-3e28-418f-b95c-4c818e839a0d)
+
+designed by [@Jerrodh](https://makerworld.com/en/models/1516432-mac-128k-display-stand-for-trmnl-e-ink-dashboard#profileId-1588587)
+
+---
+
 ### fridge magnet
 
 <kbd>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kbd>
+
+designed by TRMNL, [get the files](https://github.com/usetrmnl/mounts/tree/main/designs/fridge_magnet)
 
 ---
 
@@ -33,6 +41,8 @@ designed by [@deisterhold](https://makerworld.com/en/models/1388620-trmnl-magnet
 ### corner bracket
 
 ![corner-bracket-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/corner_bracket/preview/front%20-%20corner_bracket_3.1.png)
+
+designed by TRMNL, [get the files](https://github.com/usetrmnl/mounts/tree/main/designs/corner_bracket)
 
 ---
 
@@ -71,6 +81,8 @@ designed by [@jgcaruso](https://makerworld.com/en/models/1189641-trmnl-command-s
 ### [WIP] The H
 
 ![the-h-wip-preview](https://github.com/usetrmnl/mounts/blob/main/designs/the_h/preview/the_h.jpeg)
+
+
 
 ---
 
