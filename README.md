@@ -14,6 +14,14 @@ designed by [@Jerrodh](https://makerworld.com/en/models/1516432-mac-128k-display
 
 ---
 
+### MainFrame
+
+<kbd>![TRMNL-MainFrame-Black](https://github.com/user-attachments/assets/cc7abea6-76bd-44dd-ae4a-cc7c2827c2fb)</kbd>
+
+designed by [Yogesh](https://makerworld.com/en/@mhatrey), [get the files](https://makerworld.com/en/models/1565549-mainframe-for-trmnl) or [watch the live demo](https://www.youtube.com/watch?v=4wjz7EKg_lw).
+
+---
+
 ### fridge magnet
 
 <kbd>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kbd>
