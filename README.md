@@ -22,6 +22,14 @@ designed by [Yogesh](https://makerworld.com/en/@mhatrey), [get the files](https:
 
 ---
 
+### hidden magnet
+
+<kdb>![minimal-magnet](https://github.com/user-attachments/assets/c1c41ef6-0871-4754-b6e8-25d5e5899312)</kdb>
+
+designed by [@jerieljan](https://x.com/jerieljan/status/1981025845100552695), **no 3D printer required**, just find/buy 30mm x 10mm x 3mm N42 NdFeB magnets.
+
+---
+
 ### fridge magnet
 
 <kbd>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kbd>
