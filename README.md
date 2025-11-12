@@ -30,6 +30,14 @@ designed by [@jerieljan](https://x.com/jerieljan/status/1981025845100552695), **
 
 ---
 
+### OG Faceplate Cover
+
+<kdb>![trmnl-og-faceplate-cover](https://github.com/user-attachments/assets/0adddb48-8502-4ac4-a8db-3a153d88c8b4)</kdb>
+
+designed by [@maxelman](https://www.printables.com/model/1478341-trmnl-og-faceplate-cover)
+
+---
+
 ### fridge magnet
 
 <kbd>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kbd>
