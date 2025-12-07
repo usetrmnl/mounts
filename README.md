@@ -16,7 +16,7 @@ designed by [@Jerrodh](https://makerworld.com/en/models/1516432-mac-128k-display
 
 ### MainFrame
 
-<kdb>![TRMNL-MainFrame-Black](https://github.com/user-attachments/assets/cc7abea6-76bd-44dd-ae4a-cc7c2827c2fb)</kdb>
+<kbd>![TRMNL-MainFrame-Black](https://github.com/user-attachments/assets/cc7abea6-76bd-44dd-ae4a-cc7c2827c2fb)</kbd>
 
 designed by [Yogesh](https://makerworld.com/en/@mhatrey), [get the files](https://makerworld.com/en/models/1565549-mainframe-for-trmnl) or [watch the live demo](https://www.youtube.com/watch?v=4wjz7EKg_lw).
 
@@ -24,7 +24,7 @@ designed by [Yogesh](https://makerworld.com/en/@mhatrey), [get the files](https:
 
 ### hidden magnet
 
-<kdb>![minimal-magnet](https://github.com/user-attachments/assets/c1c41ef6-0871-4754-b6e8-25d5e5899312)</kdb>
+<kbd>![minimal-magnet](https://github.com/user-attachments/assets/c1c41ef6-0871-4754-b6e8-25d5e5899312)</kbd>
 
 designed by [@jerieljan](https://x.com/jerieljan/status/1981025845100552695), **no 3D printer required**, just find/buy 30mm x 10mm x 3mm N42 NdFeB magnets.
 
@@ -32,7 +32,7 @@ designed by [@jerieljan](https://x.com/jerieljan/status/1981025845100552695), **
 
 ### OG Faceplate Cover
 
-<kdb>![trmnl-og-faceplate-cover](https://github.com/user-attachments/assets/0adddb48-8502-4ac4-a8db-3a153d88c8b4)</kdb>
+<kbd>![trmnl-og-faceplate-cover](https://github.com/user-attachments/assets/0adddb48-8502-4ac4-a8db-3a153d88c8b4)</kbd>
 
 designed by [@maxelman](https://www.printables.com/model/1478341-trmnl-og-faceplate-cover)
 
@@ -40,7 +40,7 @@ designed by [@maxelman](https://www.printables.com/model/1478341-trmnl-og-facepl
 
 ### fridge magnet
 
-<kdb>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kdb>
+<kbd>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kbd>
 
 designed by TRMNL, [get the files](https://github.com/usetrmnl/mounts/tree/main/designs/fridge_magnet)
 
@@ -48,7 +48,7 @@ designed by TRMNL, [get the files](https://github.com/usetrmnl/mounts/tree/main/
 
 ### sturdy fridge magnet
 
-<kdb>![trmnl-beefy-fridge-magnet](https://github.com/user-attachments/assets/94493388-19e6-4f62-ac63-d2783833e840)</kdb>
+<kbd>![trmnl-beefy-fridge-magnet](https://github.com/user-attachments/assets/94493388-19e6-4f62-ac63-d2783833e840)</kbd>
 
 designed by [@erikbuild](https://www.printables.com/model/1311911-trmnl-sturdy-fridge-magnet-mount)
 
