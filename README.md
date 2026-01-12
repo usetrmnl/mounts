@@ -38,6 +38,14 @@ designed by [@maxelman](https://www.printables.com/model/1478341-trmnl-og-facepl
 
 ---
 
+### Waveshare driver board
+
+<kbd>!![doctor-volt-cad](https://github.com/user-attachments/assets/fdee8dac-f5ee-4ce2-aa9c-106cc5a63855)</kbd>
+
+requires [FreeCAD](https://www.freecad.org/), designed by [DoctorVolt](https://www.hackster.io/michalin70/build-your-own-ultra-low-power-e-ink-dashboard-3889ab) (file linked within).
+
+---
+
 ### fridge magnet
 
 <kbd>![trmnl-fridge-magnet-front-preview](https://github.com/usetrmnl/mounts/blob/main/designs/fridge_magnet/preview/front%20-%20fridge_mount_3.1.png)</kbd>
