@@ -142,6 +142,14 @@ designed by [@Apolluna](https://www.printables.com/model/1313342-trmnl-faceplate
 
 ---
 
+### TRMNL OG DIY Kit 10" Rack Mount
+
+![TRMNL-OG-DIY-Kit-10-Rack-Mount](https://github.com/user-attachments/assets/0cd07d09-c0e7-4c50-a9c8-7405b5a74e62)
+
+designed by [@Lollo](https://www.printables.com/model/1575922-trmnl-og-diy-kit-10-rack-mount)
+
+---
+
 ### Minimalist Mount for 19" Rack Blank Plate
 
 ![TRMNL server rack mount](https://github.com/user-attachments/assets/6decde3c-44fe-4ed6-8a67-bf33a5cfde78)
