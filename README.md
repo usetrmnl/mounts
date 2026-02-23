@@ -38,6 +38,14 @@ designed by [@maxelman](https://www.printables.com/model/1478341-trmnl-og-facepl
 
 ---
 
+### Multiboard TRMNL Mount
+
+<kbd>![multiboard-trmnl-mount](https://github.com/user-attachments/assets/b423eb0f-a3b6-4d29-8883-8bb84cc9a04c)</kdb>
+
+designed by [@shahriar](https://makerworld.com/en/models/2436099-multiboard-trmnl-mount#profileId-2672745)
+
+---
+
 ### Waveshare driver board
 
 <kbd>!![doctor-volt-cad](https://github.com/user-attachments/assets/fdee8dac-f5ee-4ce2-aa9c-106cc5a63855)</kbd>
