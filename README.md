@@ -62,6 +62,14 @@ designed by TRMNL, [get the files](https://github.com/usetrmnl/mounts/tree/main/
 
 ---
 
+### OG mount for VESA arm system
+
+<kbd><img width="904" height="819" alt="trmnl-vesa-mount" src="https://github.com/user-attachments/assets/9b92a478-2c7b-4c2c-977c-2bdb9d4b170b" /></kbd>
+
+requires VESA plate, designed by [az3dr](https://www.thingiverse.com/thing:7304914).
+
+---
+
 ### sturdy fridge magnet
 
 <kbd>![trmnl-beefy-fridge-magnet](https://github.com/user-attachments/assets/94493388-19e6-4f62-ac63-d2783833e840)</kbd>
