@@ -196,4 +196,10 @@ designed by [@jareware_2647066](https://www.printables.com/model/1316234-trmnl-m
 
 designed by [@sethangell](https://makerworld.com/en/models/1513288-magnetic-trmnl-mount#profileId-1584851)
 
+---
 
+### TRMNL BMP280
+
+<img width="838" height="1069" alt="trmnl-bmp280-mount" src="https://github.com/user-attachments/assets/3a648791-3621-41ba-9d1b-c2a0eb58bcc6" />
+
+designed by [@lanrat](https://github.com/lanrat/trmnl_plugins/blob/main/3D_models/Trmnl%20BMP280%20mount/README.md) for [DIY Environment Sensors](https://trmnl.com/blog/environment-sensors/)
