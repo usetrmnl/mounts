@@ -20,6 +20,12 @@ designed by [Yogesh](https://makerworld.com/en/@mhatrey), [get the files](https:
 
 ---
 
+### X low profile mount
+
+<kbd><img width="1280" height="960" alt="x-low-profile-wall-mount" src="https://github.com/user-attachments/assets/56be38ec-643f-4d38-b2a6-123f7b14d03f"/></kbd>
+
+designed by [@Bas](https://www.printables.com/model/1771188-trmnl-x-low-profile-mount), requires 4 (four) 10mm x 2mm magnets.
+
 ### hidden magnet
 
 <kbd>![minimal-magnet](https://github.com/user-attachments/assets/c1c41ef6-0871-4754-b6e8-25d5e5899312)</kbd>
