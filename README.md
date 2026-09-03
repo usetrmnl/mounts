@@ -20,6 +20,14 @@ designed by [Yogesh](https://makerworld.com/en/@mhatrey), [get the files](https:
 
 ---
 
+### anti-theft / public venue wall mount (OG)
+
+![anti-theft-og-preview](https://github.com/usetrmnl/mounts/blob/main/designs/anti_theft/og/preview/5.%20assembled.jpg)
+
+designed by TRMNL, [get the files](https://github.com/usetrmnl/mounts/tree/main/designs/anti_theft)
+
+---
+
 ### X low profile mount
 
 <kbd><img width="1280" height="960" alt="x-low-profile-wall-mount" src="https://github.com/user-attachments/assets/56be38ec-643f-4d38-b2a6-123f7b14d03f"/></kbd>
