@@ -1,6 +1,8 @@
 # TRMNL Mount - OG Anti-Theft (Public Venue)
 
-for placement in public spaces with low supervision. incorporates a barrel lock and dovetail mechanism to prevent unauthorized removal.
+![anti-theft-og-preview](https://github.com/usetrmnl/mounts/blob/main/designs/anti_theft/og/preview/5.%20assembled.jpg)
+
+for public spaces with low supervision. incorporates a barrel lock and dovetail mechanism to prevent unauthorized removal.
 
 ### features
 
