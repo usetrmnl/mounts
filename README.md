@@ -50,6 +50,14 @@ designed by [@maxelman](https://www.printables.com/model/1478341-trmnl-og-facepl
 
 ---
 
+### X Magnetic Fridge Mount
+
+<kbd><img width="906" height="565" alt="trmnl-x-fridge-mount" src="https://github.com/user-attachments/assets/9fc5478b-745f-4ff3-9021-32d0c8fc0364" /></kdb>
+
+designed by [@t0nyz](https://makerworld.com/en/models/3391454-trmnl-x-magnetic-fridge-mount), requires 20mm x 10mm x 2 mm magnets.
+
+---
+
 ### Multiboard TRMNL Mount
 
 <kbd>![multiboard-trmnl-mount](https://github.com/user-attachments/assets/b423eb0f-a3b6-4d29-8883-8bb84cc9a04c)</kdb>
