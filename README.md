@@ -24,7 +24,7 @@ designed by [Yogesh](https://makerworld.com/en/@mhatrey), [get the files](https:
 
 ![anti-theft-og-preview](https://github.com/usetrmnl/mounts/blob/main/designs/anti_theft/og/preview/5.%20assembled.jpg)
 
-designed by TRMNL, [get the files](https://github.com/usetrmnl/mounts/tree/main/designs/anti_theft)
+designed by TRMNL, [get the files](https://github.com/usetrmnl/mounts/tree/main/designs/anti_theft/og)
 
 ---
 
