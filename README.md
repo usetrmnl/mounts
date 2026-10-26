@@ -42,6 +42,14 @@ designed by [@jerieljan](https://x.com/jerieljan/status/1981025845100552695), **
 
 ---
 
+### X Puck Mount: Wall Screw or IKEA Skadis
+
+<kbd><img width="1280" height="960" alt="x-puck-skadis" src="https://github.com/user-attachments/assets/1618ddc7-99d8-4522-b85b-9158b270d6e9" /></kbd>
+
+designed by [@thefinkus](https://makerworld.com/en/models/3497787-trmnl-x-puck-mount-wall-screw-or-ikea-skadis), requires six 12x3mm magnets.
+
+---
+
 ### OG Faceplate Cover
 
 <kbd>![trmnl-og-faceplate-cover](https://github.com/user-attachments/assets/0adddb48-8502-4ac4-a8db-3a153d88c8b4)</kbd>
